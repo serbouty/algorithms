@@ -1,0 +1,14 @@
+# Default
+*                   text=auto
+
+# Sources
+*.java              text diff=java
+
+# Configuration
+*.iml               text
+*.xml               text
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown
